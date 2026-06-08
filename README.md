@@ -1,13 +1,14 @@
 # Julius Skills
 
-Two personal agent skills for now: Caveman base and UI Craft.
+Three personal agent skills for now: Caveman base, UI Craft, and Grill Me.
 
-This repo is shaped by two things:
+This repo is shaped by three things:
 
 - **Caveman** - 70k-star token compression without technical loss. Small mouth, big brain.
 - **UI craft** - accessible, performant interfaces with strong aesthetic direction, not generic AI slop.
+- **Grill Me** - calibrated pressure before hard critique, so challenge matches user knowledge and comfort.
 
-Point is control. Agents should be terse when talking and precise when building interfaces.
+Point is control. Agents should be terse when talking, precise when building interfaces, and calibrated when challenging plans.
 
 ## Quickstart
 
@@ -27,12 +28,13 @@ curl -fsSL https://raw.githubusercontent.com/JuliusBrussee/caveman/main/install.
 
 ## Why These Skills Exist
 
-Most agent output fails in two boring ways: too many words, or UI that looks like every other generated demo.
+Most agent output fails in three boring ways: too many words, UI that looks like every other generated demo, or critique that starts too hard before understanding user context.
 
-This repo keeps two fixes close:
+This repo keeps three fixes close:
 
 1. **Speak less, say more.** Caveman cuts output tokens while preserving exact commands, code, errors, and technical meaning.
 2. **Build interfaces with taste.** UI Craft starts from accessibility, performance, typography, spatial rhythm, color roles, and concrete interaction states.
+3. **Challenge at the right altitude.** Grill Me assesses knowledge and desired pressure first, then asks one question at a time.
 
 ## Skills
 
@@ -60,6 +62,18 @@ Use when building:
 - polished app flows
 - accessibility fixes
 - UI review passes
+
+### `grill-me`
+
+Calibrated interview skill for stress-testing plans, designs, and decisions. It first asks how much the user knows and how hard they want the pressure, then ramps from clarifying questions to failure-mode critique.
+
+Use when you want:
+
+- plan critique without getting overwhelmed
+- one question at a time
+- recommended answers with each question
+- pressure matched to beginner, working, or expert knowledge
+- softer or harder grilling on command
 
 ## UI Craft Standard
 

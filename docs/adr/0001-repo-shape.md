@@ -6,7 +6,7 @@ Accepted.
 
 ## Context
 
-The repo needs to publish only `caveman` and `ui-craft` for now, work with `skills.sh` style installers, and remain easy to inspect on GitHub.
+The repo needs to publish `caveman`, `ui-craft`, and `grill-me` for now, work with `skills.sh` style installers, and remain easy to inspect on GitHub.
 
 ## Decision
 

@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repo publishes two Julius Brussee agent skills for now: `caveman` and `ui-craft`. Treat it as an installable skill collection, not a product website.
+This repo publishes three Julius Brussee agent skills for now: `caveman`, `ui-craft`, and `grill-me`. Treat it as an installable skill collection, not a product website.
 
 ## Editing Rules
 
