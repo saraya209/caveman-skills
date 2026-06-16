@@ -25,22 +25,6 @@ Seven agent skills for Claude Code: terse communication and plan review.
 
 Skills are namespaced under the plugin (for example, `/caveman-skills:caveman`). Trigger them by intent or by their `/skill` name.
 
-## Develop
-
-```bash
-node scripts/list-skills.mjs    # list skills
-node scripts/verify-skills.mjs  # validate frontmatter + unique names
-```
-
-## Syncing upstream
-
-```bash
-git fetch upstream            # JuliusBrussee/skills
-git merge upstream/main
-```
-
-`caveman`, `grill-me`, `junior-to-senior`, and `context-canary` track upstream. `caveman-compress`, `caveman-commit`, and `caveman-review` were copied from the caveman repo and have diverged (inline rewrite), so re-pull those by hand if you need upstream changes.
-
 ## License
 
 MIT. See [LICENSE](LICENSE).

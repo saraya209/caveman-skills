@@ -1,9 +1,0 @@
-{
-  "name": "@saraya209/caveman-skills",
-  "private": true,
-  "type": "module",
-  "scripts": {
-    "list": "node scripts/list-skills.mjs",
-    "verify": "node scripts/verify-skills.mjs"
-  }
-}
