@@ -2,7 +2,7 @@
 
 ## Purpose
 
-This repo publishes seven Julius Brussee agent skills for now: `caveman`, `interface-kit`, `grill-me`, `loop-factory`, `junior-to-senior`, `fuck-slop`, and `context-canary`. Treat it as an installable skill collection, not a product website.
+This repo publishes seven agent skills: `caveman`, `caveman-compress`, `caveman-commit`, `caveman-review`, `grill-me`, `junior-to-senior`, and `context-canary`. Treat it as an installable skill collection, not a product website. Forked from JuliusBrussee/skills + JuliusBrussee/caveman.
 
 ## Editing Rules
 
@@ -26,21 +26,11 @@ node scripts/verify-skills.mjs
 node scripts/list-skills.mjs
 ```
 
-For `interface-kit` changes, preserve priorities:
-
-- accessibility
-- performance
-- typography
-- layout and spatial design
-- color semantics
-- motion and interaction
-- polish
-
 ## Agent Skills
 
 ### Issue Tracker
 
-Issues live in GitHub Issues for `JuliusBrussee/skills` once repo is published.
+Issues live in GitHub Issues for `saraya209/caveman-skills`.
 
 ### Triage Labels
 

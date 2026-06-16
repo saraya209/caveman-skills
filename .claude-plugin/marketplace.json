@@ -1,0 +1,17 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "caveman-skills",
+  "description": "Curated agent skills: caveman token compression plus engineering-rigor skills.",
+  "owner": {
+    "name": "saraya209",
+    "url": "https://github.com/saraya209"
+  },
+  "plugins": [
+    {
+      "name": "caveman-skills",
+      "description": "Caveman compression (+ compress/commit/review), grill-me, junior-to-senior, context-canary.",
+      "source": "./",
+      "category": "productivity"
+    }
+  ]
+}

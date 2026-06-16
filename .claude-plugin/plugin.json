@@ -1,0 +1,8 @@
+{
+  "name": "caveman-skills",
+  "description": "Curated agent skills: caveman token compression (+ compress/commit/review) plus engineering-rigor skills (grill-me, junior-to-senior, context-canary).",
+  "author": {
+    "name": "saraya209",
+    "url": "https://github.com/saraya209"
+  }
+}
